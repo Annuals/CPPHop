@@ -1,8 +1,12 @@
 # CSGO Bunnyhop Cheat
 
 **Usage**
-Take the 'main.cpp', and put it in Visual Studio **MAKE SURE TO HAVE CSGO OPEN!!!!"
+
+
+Take the 'main.cpp', and put it in Visual Studio **MAKE SURE TO HAVE CSGO OPEN!!!!**"
+
 Press the 'Build' or 'Run' button.
+
 Boom! It should inject into CSGO and then you can press "C" to bhop!
 Enjoy!
 
